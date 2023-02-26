@@ -109,6 +109,7 @@
             <groupId>dev.triumphteam</groupId>
             <artifactId>triumph-gui</artifactId>
             <version>3.1.2</version>
+            <scope>provided</scope>
         </dependency>
     </dependencies>
 </project>

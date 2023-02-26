@@ -1,0 +1,9 @@
+name: SSCore
+version: '${project.version}'
+main: dk.nydt.sscore.SSCore
+api-version: 1.19
+authors: [ Nydt ]
+description: SSCore is a core plugin for all sa store's plugins.
+softdepend:
+  - Vault
+  - PlaceholderAPI
